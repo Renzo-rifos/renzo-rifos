@@ -1,11 +1,7 @@
 
+<h1 align="center">Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Renzo Rifos</h1>
 
-Hi 👋, I'm Renzo Rifos
-
-
-
-
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&lines=Frontend+Developer;Open+to+remote+work;Always+learning)
   
 
 
