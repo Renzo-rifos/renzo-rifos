@@ -10,11 +10,11 @@
 
 
 
-  Self-taught developer from Argentina — started coding at 13, now building real-world projects with React.
+Self-taught Frontend Developer from Argentina — started coding at 13, now building real-world projects with React, TypeScript, and Tailwind CSS.
 
-  I learn by doing and care about understanding the why behind every tool I use.
+I learn by doing and care about understanding the "why" behind every tool I use.
 
-  Currently exploring TypeScript and looking for a remote junior frontend role.
+Looking for a remote junior frontend role.
 
 
 
