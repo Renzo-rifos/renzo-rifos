@@ -14,7 +14,7 @@ Self-taught Frontend Developer from Argentina — started coding at 13, now buil
 
 I learn by doing and care about understanding the "why" behind every tool I use.
 
-Looking for a remote junior frontend role.
+Frontend Developer (React/TypeScript) — Building fast, clean web apps for clients
 
 
 
